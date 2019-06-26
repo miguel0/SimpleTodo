@@ -34,9 +34,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- Setting up everything for Android Studio to be ready.
+- Working with the constraint layout, setting the right constraints.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Miguel Barro Encinas]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
